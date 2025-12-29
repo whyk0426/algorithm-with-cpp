@@ -145,6 +145,8 @@ public:
 			head = nullptr;
 			current = nullptr;
 			tail = nullptr;
+
+			return;
 		}
 		Music* target = current;
 		Music* prev_music = current->prev;
@@ -161,6 +163,11 @@ public:
 		std::cout << "DELETED ->" << target->name << std::endl;
 		std::cout << std::endl;
 		delete target;
+	}
+
+	~Playlist() {                                 // 소멸자는 아직 잘 모르겠음
+		while (head != nullptr)
+			erase();
 	}
 };
 
