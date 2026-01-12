@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kkyys\\Desktop\\algorithm_with_cpp\\Lesson3\\Practice6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA7C4C5-FF96-4206-84CA-738715F20E01}|Practice6\\Practice6.vcxproj|C:\\Users\\kkyys\\Desktop\\algorithm_with_cpp\\Lesson3\\Practice6\\Practice6\\Practice6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DA7C4C5-FF96-4206-84CA-738715F20E01}|Practice6\\Practice6.vcxproj|solutionrelative:Practice6\\Practice6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practice6.cpp",
+              "DocumentMoniker": "C:\\Users\\kkyys\\Desktop\\algorithm_with_cpp\\Lesson3\\Practice6\\Practice6\\Practice6.cpp",
+              "RelativeDocumentMoniker": "Practice6\\Practice6.cpp",
+              "ToolTip": "C:\\Users\\kkyys\\Desktop\\algorithm_with_cpp\\Lesson3\\Practice6\\Practice6\\Practice6.cpp",
+              "RelativeToolTip": "Practice6\\Practice6.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-12T01:46:32.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
