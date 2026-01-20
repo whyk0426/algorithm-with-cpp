@@ -1,0 +1,5 @@
+﻿  Practuce11.cpp
+C:\Users\kkyys\Desktop\algorithm_with_cpp\Lesson5\Practuce11\Practuce11\Practuce11.cpp(18,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kkyys\Desktop\algorithm_with_cpp\Lesson5\Practuce11\Practuce11\Practuce11.cpp(49,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kkyys\Desktop\algorithm_with_cpp\Lesson5\Practuce11\Practuce11\Practuce11.cpp(50,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Practuce11.vcxproj -> C:\Users\kkyys\Desktop\algorithm_with_cpp\Lesson5\Practuce11\x64\Debug\Practuce11.exe
