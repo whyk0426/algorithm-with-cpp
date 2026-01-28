@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kkyys\\Desktop\\algorithm_with_cpp\\Lesson6\\dijkstra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F627B4F3-17BF-4C77-AC1D-5A0E45E3533E}|dijkstra\\dijkstra.vcxproj|C:\\Users\\kkyys\\Desktop\\algorithm_with_cpp\\Lesson6\\dijkstra\\dijkstra\\dijkstra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F627B4F3-17BF-4C77-AC1D-5A0E45E3533E}|dijkstra\\dijkstra.vcxproj|solutionrelative:dijkstra\\dijkstra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dijkstra.cpp",
+              "DocumentMoniker": "C:\\Users\\kkyys\\Desktop\\algorithm_with_cpp\\Lesson6\\dijkstra\\dijkstra\\dijkstra.cpp",
+              "RelativeDocumentMoniker": "dijkstra\\dijkstra.cpp",
+              "ToolTip": "C:\\Users\\kkyys\\Desktop\\algorithm_with_cpp\\Lesson6\\dijkstra\\dijkstra\\dijkstra.cpp",
+              "RelativeToolTip": "dijkstra\\dijkstra.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T03:23:57.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
